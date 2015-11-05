@@ -41,6 +41,13 @@ body {
   height: 385px;
 }
 
+.V6 {
+  background-image: url(/images/cover-v6-page.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
 .tagLine {
   background-color: black;
   height: 131px;

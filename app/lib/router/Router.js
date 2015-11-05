@@ -30,6 +30,10 @@ Router.route('/Aukahi', {
   name: 'Aukahi'
 });
 
+Router.route('/V6', {
+  name: 'V6'
+});
+
 
 Router.route('/stuff/:_id', {
   name: 'EditStuff',
