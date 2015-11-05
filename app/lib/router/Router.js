@@ -34,6 +34,10 @@ Router.route('/V6', {
   name: 'V6'
 });
 
+Router.route('/About', {
+  name: 'About'
+});
+
 
 Router.route('/stuff/:_id', {
   name: 'EditStuff',
