@@ -34,6 +34,13 @@ body {
   height: 385px;
 }
 
+.aukahi {
+  background-image: url(/images/cover-aukahi.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
 .tagLine {
   background-color: black;
   height: 131px;
